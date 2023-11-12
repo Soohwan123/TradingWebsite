@@ -1,6 +1,6 @@
-# SprintCompass
+# TradingWebsite
 
-This application can be used by project managers to track the progress of a project, and at the same time, will assist developers to enhance their ability to more accurately estimate user stories.
+This is a trading website application that provides ability to check prices of various items in the world such as stocks or cryptocurrencies.
 
 _**This application is not mobile friendly yet!!**_
 
